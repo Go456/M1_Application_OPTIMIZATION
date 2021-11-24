@@ -45,8 +45,8 @@ online registration on the local server
 
 
 # High Level Requirements
-|ID|	          Description	Status|                                                     (Implemented/Future)|
-|:----:|:-------------------------:|:----------------------------------:|
+|ID||	          Description	Status|  |                                                   (Implemented/Future)|
+|:----:||:-------------------------:||:----------------------------------:|
 HR01	System should be able to access pre loaded registration data for verification  	Implemented
 HR02	User should be able to add new registrations	                                  Implemented
 HR03	System should recognize registered persons	                                     future
