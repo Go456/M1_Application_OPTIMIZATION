@@ -53,7 +53,7 @@ HR04	OTP generated verification for secure registration                         
 HR05	System should recognize invalid credentials	                                    Implemented
 HR06	System should be able generate reports                                          Implemented
 
-low level Requirements :
+# low level Requirements :
 Id  	            Description	Status             (Implemented/Future)
 1                  login(user)                        Implemented
 2                  Admin login                        Implemented
@@ -61,7 +61,7 @@ Id  	            Description	Status             (Implemented/Future)
 4                    Bandwidth monitoring             Implemented
 
 
-Future Scope :
+# Future Scope :
 we can also set the reminder to customer about  payment and registeration.
 set the alert message can be popped if any explicit content or abused content open on the system.
 
