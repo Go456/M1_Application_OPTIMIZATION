@@ -4,15 +4,15 @@
 */
 
 #include <stdio.h>  //Provides the core input and output capabilities of the C language.
-#include <conio.h>  //for doing console input output
+//#include <conio.h>  //for doing console input output
 #include <ctype.h> //Contains functions used to classify characters by their types or to convert between upper and lower case in a way that is independent of the used character set
 #include <stdlib.h> //For performing a variety of operations, including conversion, pseudo-random numbers, memory allocation, process control, environment, signalling, searching, and sorting.
 #define _WIN32_WINNT 0x0500 //constant for console resizing (redifinition)
 #include <windows.h> //defines a very large number of Windows specific functions that can be used in C.
 #include <string.h> //For manipulating several kinds of strings.
 #include <time.h> //For converting between various time and date formats.
-#include <winsock2.h>   // contains functions for socket programmming
-#include <process.h>    //contains functions for threading process.
+//#include <winsock2.h>   // contains functions for socket programmming
+//#include <process.h>    //contains functions for threading process.
 #define DEFAULT_PORT 5000
 #define STRLEN 256
 #define NUM_CLIENTS 2
