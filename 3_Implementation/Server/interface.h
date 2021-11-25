@@ -1,8 +1,6 @@
 /*
 * interface.h
 * Server side Interface related functions and threads
-* @author: <base-2>
-* Date:- 9-11-2010
 */
 
 // The first menu seen after server logins in the system
