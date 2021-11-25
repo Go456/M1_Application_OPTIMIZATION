@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "function1.c"
+#include "function.h"
 
 int main(){
    console_settings();

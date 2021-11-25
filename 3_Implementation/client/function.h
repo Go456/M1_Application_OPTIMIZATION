@@ -2,7 +2,7 @@
 	File:- function.h
 	Desc:- contains all the functions related to menu control,server and client interfacing
 */
-#include<config.h>
+#include"config.h"
 #include "sock.h"
 #include "interface.h"
 
