@@ -3,6 +3,7 @@
 #include<function.h>
 #include<sock.h>
 
+#include<admin_function.h>
 #define PROJECT_NAME    "Reminder"
 
 
